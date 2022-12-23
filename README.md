@@ -1,3 +1,8 @@
+![stacy-lear-header](https://user-images.githubusercontent.com/57073322/209250409-fb67aa87-b429-44b5-83c9-1faf55d94589.png)
+
+It all started with Lemonade Stand. 
+
+
 ### Hi there 👋
 
 <!--
