@@ -1,4 +1,6 @@
-![stacy-lear-header](https://user-images.githubusercontent.com/57073322/209250409-fb67aa87-b429-44b5-83c9-1faf55d94589.png)
+<p align="center" width="100%">
+<img src="https://user-images.githubusercontent.com/57073322/213937170-5dbe50fe-0014-48e2-80f7-5c04be7904bb.svg" width=50% alt="Stacy Lear Logo">
+</p>
 
 It all started with Lemonade Stand. 
 
