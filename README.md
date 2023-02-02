@@ -12,6 +12,6 @@ I'm hooked.
 :game_die: I'm hooked on gaming. <br>
 :dollar: I'm hooked on finance. 
 
-I become a loan shark for ice cream money in the school cafeteria. 
+I become a loan shark for ice cream money in my elementary school cafeteria. 
 
 And that's my origin story. :lemon:
