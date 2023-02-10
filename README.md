@@ -12,6 +12,6 @@ I'm hooked.
 :game_die: I'm hooked on gaming. <br>
 :dollar: I'm hooked on finance. 
 
-I become an ice cream money loan shark in my elementary school cafeteria. 
+I become an ice cream money loan shark in my elementary school cafeteria. When I grow up, I repent my loan shark ways and become a detective, where I specialize in using tech to solve homicides and investigate the financial exploitation of the elderly. After I retired, I started back where I began: coding.
 
 And that's my origin story. :lemon:
