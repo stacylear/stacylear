@@ -14,4 +14,22 @@ I'm hooked.
 
 I become an ice cream money loan shark in my elementary school cafeteria. When I grow up, I repent my loan shark ways and become a detective, where I specialize in using tech to solve homicides and investigate the financial exploitation of the elderly. I retire from law enforcement and start back where I began: coding.
 
-And that's my origin story. :lemon:
+And that's my origin story. :lemon: <a href="https://www.stacylear.com" target="_blank">Visit my web site</a> for more information on my projects and how to contact me.
+
+<p align="center">
+  <a href="https://stacy.lear.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F7DF1E&style=flat&logo=react&logo-color=white"/>
+  </a>
+  <a href="[https://stacylear.com/linkedin](https://www.linkedin.com/in/stacylear/)" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=flat&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="[https://shawncharles.com/twitter](https://twitter.com/StacyLearSDE)" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=F7DF1E&style=flat&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="[https://shawncharles.com/angellist](https://angel.co/u/stacy-lear)" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=flat&logo=angellist&logo-color=white"/>
+  </a>
+  <a href="[https://shawncharles.com/resume](https://stacylear.com/resume.pdf)" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=F7DF1E&style=flat&logo=react&logo-color=white"/>
+  </a>
+</p>
