@@ -17,7 +17,7 @@ I become an ice cream money loan shark in my elementary school cafeteria. When I
 And that's my origin story. :lemon: <a href="https://www.stacylear.com" target="_blank">Visit my web site</a> for more information on my projects and how to contact me.
 
 <p align="center">
-  <a href="https://stacy.lear.com" target="_blank">
+  <a href="https://stacylear.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=F7DF1E&style=flat&logo=react&logo-color=white">
   </a>
   <a href="https://www.linkedin.com/in/stacylear/" target="_blank">
