@@ -43,9 +43,7 @@ And that's my origin story. :lemon: <a href="https://www.stacylear.com" target="
           <h3 align="center">Portfolio</h3>
           <br />
             <a target="_blank" href="https://stacylear.com">
-            <video width="320" height="240" controls>
-            <source src="images/portfolio.mp4" type="video/mp4">
-            </video>
+            <img src="https://user-images.githubusercontent.com/57073322/221384114-7b226d1b-5ea5-4452-b84d-fadff6e466c7.png" width="100%" alt="Portfolio">
             </a>
           <br />
           <p align="center">
@@ -53,7 +51,7 @@ And that's my origin story. :lemon: <a href="https://www.stacylear.com" target="
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
             </a>
           <a href="http://stacylear.com target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic"/>
           </a>
           </p>
           <p><strong>HTML, CSS, & JavaScript</strong> - Portfolio web site, including links to my projects and ways to get in contact with me.</p>
@@ -70,7 +68,7 @@ And that's my origin story. :lemon: <a href="https://www.stacylear.com" target="
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white">
            </a>
             <a href="https://sparksgen.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white">
+            <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic"/>
             </a>
           </p>
           <p><strong>HTML, CSS, & JavaScript</strong> - Sparks is a web app that generates thought-provoking conversation starters from a randomized question pool.</p>
@@ -89,7 +87,7 @@ And that's my origin story. :lemon: <a href="https://www.stacylear.com" target="
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
             </a>  
             <a href="https://mypocketmoney.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+            <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic"/>
             </a>
           </p>
           <p><strong>JavaScript, HTML, and CSS</strong> - Pocket Money calculates how much discretionary cash you'll have left over after you've paid all your bills.</p>
@@ -106,7 +104,7 @@ And that's my origin story. :lemon: <a href="https://www.stacylear.com" target="
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
             </a>
             <a href="https://guildvault.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+            <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic"/>
             </a>
           </p>
           <p><strong>MongoDB, Express, React, Node, & JavaScript</strong> - Guild Vault is a personal finance tool that allows users to set up accounts to track income and expenses. It's built on MVC architecture with user authorization using the MERN stack.</p>
