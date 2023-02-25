@@ -78,20 +78,20 @@ And that's my origin story. :lemon: <a href="https://www.stacylear.com" target="
       <td width="50%" valign="top">
         <h3 align="center">Pocket Money</h3>
           <br />
-          <a target="_blank" href="https://mypocketmoney.netlify.app“>
+          <a target="_blank" href="https://mypocketmoney.netlify.app/">
           <img src="images/pocketmoney.png" width="100%"  alt="Pocket Money">
-          </a> 
+          </a>
           <br />
           <p align="center">
             <a href="https://github.com/stacylear/pocketmoney" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-            </a>  
+            </a>
             <a href="https://mypocketmoney.netlify.app/" target="_blank">
             <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic"/>
             </a>
           </p>
-          <p><strong>JavaScript, HTML, and CSS</strong> - Pocket Money calculates how much discretionary cash you'll have left over after you've paid all your bills.</p>
-      </td>
+          <p><strong>HTML, CSS, & JavaScript</strong> - Pocket Money calculates how much discretionary cash you'll have left over after you've paid all your bills.</p>
+    </td>
       <td width="50%" valign="top">
         <h3 align="center">Guild Vault</h3>
           <br />
