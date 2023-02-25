@@ -43,7 +43,7 @@ And that's my origin story. :lemon: <a href="https://www.stacylear.com" target="
           <h3 align="center">Portfolio</h3>
           <br />
             <a target="_blank" href="https://stacylear.com">
-            <img src="https://user-images.githubusercontent.com/57073322/221384114-7b226d1b-5ea5-4452-b84d-fadff6e466c7.png" width="100%" alt="Portfolio">
+            <img src="images/portfolio.png" width="100%" alt="Portfolio">
             </a>
           <br />
           <p align="center">
