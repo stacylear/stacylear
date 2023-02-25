@@ -42,7 +42,7 @@ And that's my origin story. :lemon: <a href="https://www.stacylear.com" target="
       <td width="50%" valign="top">
           <h3 align="center">Portfolio</h3>
           <br />
-            <a target="_blank" href="https://stacylear.com”>
+            <a target="_blank" href="https://stacylear.com">
             <video width="320" height="240" controls>
             <source src="images/portfolio.mp4" type="video/mp4">
             </video>
@@ -62,7 +62,7 @@ And that's my origin story. :lemon: <a href="https://www.stacylear.com" target="
         <h3 align="center">Sparks</h3>
           <br>
           <a target="_blank" href="https://sparksgen.netlify.app">
-          <img src="images/sparks.png" width="100%" alt=“Sparks - a Conversation Starter">
+          <img src="images/sparks.png" width="100%" alt="Sparks - a Conversation Starter">
           </a>
           <br />
           <p align="center">
@@ -81,7 +81,7 @@ And that's my origin story. :lemon: <a href="https://www.stacylear.com" target="
         <h3 align="center">Pocket Money</h3>
           <br />
           <a target="_blank" href="https://mypocketmoney.netlify.app“>
-          <img src="images/pocketmoney.png" width="100%"  alt=“Pocket Money”>
+          <img src="images/pocketmoney.png" width="100%"  alt="Pocket Money">
           </a> 
           <br />
           <p align="center">
@@ -98,7 +98,7 @@ And that's my origin story. :lemon: <a href="https://www.stacylear.com" target="
         <h3 align="center">Guild Vault</h3>
           <br />
           <a target="_blank" href="https://guildvault.netlify.app/">
-          <img src="images/guildvault.png" width="100%"  alt=“Guild Vault”>
+          <img src="images/guildvault.png" width="100%"  alt="Guild Vault">
           </a>
           <br />
           <p align="center">
