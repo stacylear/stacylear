@@ -33,3 +33,83 @@ And that's my origin story. :lemon: <a href="https://www.stacylear.com" target="
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=F7DF1E&style=flat&logo=react&logo-color=white"/>
   </a>
 </p>
+
+
+<h1 align="center">Projects</h1>
+
+<table>
+    <tr>
+      <td width="50%" valign="top">
+          <h3 align="center">Portfolio</h3>
+          <br />
+            <a target="_blank" href="https://stacylear.com”>
+            <video width="320" height="240" controls>
+            <source src="images/portfolio.mp4" type="video/mp4">
+            </video>
+            </a>
+          <br />
+          <p align="center">
+            <a href="https://github.com/stacylear/portfolio" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+            </a>
+          <a href="http://stacylear.com target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
+          </p>
+          <p><strong>HTML, CSS, & JavaScript</strong> - Portfolio web site, including links to my projects and ways to get in contact with me.</p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">Sparks</h3>
+          <br>
+          <a target="_blank" href="https://sparksgen.netlify.app">
+          <img src="images/sparks.png" width="100%" alt=“Sparks - a Conversation Starter">
+          </a>
+          <br />
+          <p align="center">
+            <a href="https://github.com/stacylear/sparks" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white">
+           </a>
+            <a href="https://sparksgen.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white">
+            </a>
+          </p>
+          <p><strong>HTML, CSS, & JavaScript</strong> - Sparks is a web app that generates thought-provoking conversation starters from a randomized question pool.</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">Pocket Money</h3>
+          <br />
+          <a target="_blank" href="https://mypocketmoney.netlify.app“>
+          <img src="images/pocketmoney.png" width="100%"  alt=“Pocket Money”>
+          </a> 
+          <br />
+          <p align="center">
+            <a href="https://github.com/stacylear/pocketmoney" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+            </a>  
+            <a href="https://mypocketmoney.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+            </a>
+          </p>
+          <p><strong>JavaScript, HTML, and CSS</strong> - Pocket Money calculates how much discretionary cash you'll have left over after you've paid all your bills.</p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">Guild Vault</h3>
+          <br />
+          <a target="_blank" href="https://guildvault.netlify.app/">
+          <img src="images/guildvault.png" width="100%"  alt=“Guild Vault”>
+          </a>
+          <br />
+          <p align="center">
+            <a href="https://github.com/stacylear/guildvault" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+            </a>
+            <a href="https://guildvault.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+            </a>
+          </p>
+          <p><strong>MongoDB, Express, React, Node, & JavaScript</strong> - Guild Vault is a personal finance tool that allows users to set up accounts to track income and expenses. It's built on MVC architecture with user authorization using the MERN stack.</p>
+    </td>
+  </tr>
+</table>
